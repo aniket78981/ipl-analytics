@@ -2,3 +2,4 @@ data/*.csv
 archive/
 .ipynb_checkpoints/
 *.db
+desktop.ini
